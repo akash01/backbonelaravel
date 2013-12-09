@@ -1,0 +1,15 @@
+{
+  "name" : "Contact Manager",
+  "version": "0.1",
+  "dependencies" : {
+    "backbone-amd" : "latest",
+    "underscore-amd": "latest",
+    "requirejs": "latest",
+    "jquery": "latest"
+  },
+  "install" : {
+    "path" : {
+    	"js": "public/scripts/vendors"
+    }
+  }
+}

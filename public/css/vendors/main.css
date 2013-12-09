@@ -1,0 +1,10 @@
+.module {
+	font-weight: bold;
+}
+
+#addContact {
+	margin-bottom: 2em;
+}
+
+@import 'bootstrap.min.css';
+@import 'bootstrap.responsive.min.css';
