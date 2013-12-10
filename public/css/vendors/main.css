@@ -1,3 +1,6 @@
+@import 'bootstrap.min.css';
+@import 'bootstrap-responsive.min.css';
+
 .module {
 	font-weight: bold;
 }
@@ -6,5 +9,5 @@
 	margin-bottom: 2em;
 }
 
-@import 'bootstrap.min.css';
-@import 'bootstrap.responsive.min.css';
+body {  padding: 20px; } 
+@media (max-width: 979px) { body { padding-top: 0;  } }
